@@ -1,2 +1,3 @@
 I am Reed, the greatest programmer if all time.
-Change the host email
+Change the host email.
+Reed is a Python Developer.
